@@ -1,0 +1,13 @@
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\basicThirteen\obj\Debug\netcoreapp3.1\basicThirteen.csprojAssemblyReference.cache
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\basicThirteen\obj\Debug\netcoreapp3.1\basicThirteen.AssemblyInfoInputs.cache
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\basicThirteen\obj\Debug\netcoreapp3.1\basicThirteen.AssemblyInfo.cs
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\basicThirteen\obj\Debug\netcoreapp3.1\basicThirteen.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\basicThirteen\bin\Debug\netcoreapp3.1\basicThirteen.exe
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\basicThirteen\bin\Debug\netcoreapp3.1\basicThirteen.deps.json
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\basicThirteen\bin\Debug\netcoreapp3.1\basicThirteen.runtimeconfig.json
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\basicThirteen\bin\Debug\netcoreapp3.1\basicThirteen.runtimeconfig.dev.json
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\basicThirteen\bin\Debug\netcoreapp3.1\basicThirteen.dll
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\basicThirteen\bin\Debug\netcoreapp3.1\basicThirteen.pdb
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\basicThirteen\obj\Debug\netcoreapp3.1\basicThirteen.dll
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\basicThirteen\obj\Debug\netcoreapp3.1\basicThirteen.pdb
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\basicThirteen\obj\Debug\netcoreapp3.1\basicThirteen.genruntimeconfig.cache
